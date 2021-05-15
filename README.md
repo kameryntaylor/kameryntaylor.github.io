@@ -24,3 +24,5 @@ Definitions from Oxford Languages<br>
 <strong>What I learned in coding:</strong> Never copy other peers around you on a way to approach a project, always get as close to the source as possible and derive your own approach to solving pallet<br><br>
 
 <strong>We all know all things come from GOD so what is he saying for the year 2021?</strong> Thessalonians is my favorite chapter, ask me why.
+
+<br></br>
