@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 in·form·ant<br>
 /inˈfôrmənt/<br>
 Learn to pronounce<br>
-  noun<br>
+<p class="tab">noun  tab</p><br>
 a person who gives information to another.<br>
 another term for informer.<br>
 <br>
