@@ -15,7 +15,6 @@ Learn to pronounce<br>
 <blockquote>noun</blockquote>
 a person who gives information to another.<br>
 another term for informer.<br>
-<br>
 a person from whom a linguist or anthropologist obtains information about language, dialect, or culture.<br>
 Definitions from Oxford Languages
 
