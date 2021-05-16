@@ -32,4 +32,4 @@ Definitions from Oxford Languages<br>
 <br>
 
 Phobias inhibit intellectual discoveries
-https://github.com/kammywhams/kammywhams.github.io/blob/main/IMG_20210516_094929.jpg|alt=fp
+[[IMG_20210516_094929.jpg]]
