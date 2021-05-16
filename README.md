@@ -33,4 +33,4 @@ Definitions from Oxford Languages<br>
 
 <br>
 
-Phobias inhibit intellectual discoveries
+- Phobias inhibit intellectual discoveries
