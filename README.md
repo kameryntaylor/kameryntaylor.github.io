@@ -26,11 +26,11 @@ Definitions from Oxford Languages<br>
 <strong>We all know all things come from GOD so what is he saying for the year 2021?</strong> Thessalonians is my favorite chapter, ask me why.
 
 <h3>Ideas</h3>
+- Add sharable package inside chip bags to teach sharing. For example: a bag of chips will come with 2 smaller bags inside to share.
 
-<ul>
-  <li>Add sharable package inside chip bags to teach sharing. For example: a bag of chips will come with 2 smaller bags inside to share.</li>
-</ul>
 
 <br>
 
-- Phobias inhibit intellectual discoveries
+Phobias inhibit intellectual discoveries
+
+[[https://github.com/kammywhams/kammywhams.github.io/blob/main/IMG_20210516_094929.jpg|alt=firstpainting]]
