@@ -22,8 +22,8 @@ a person who gives information to another.
 - a person from whom a linguist or anthropologist obtains information about language, dialect, or culture.  
   
 Definitions from Oxford Languages  
-
-
+  
+  
 **What I learned in coding:** Never copy other peers around you on a way to approach a project, always get as close to the source as possible and derive your own approach to solving pallet  
 
 **We all know all things come from GOD so what is he saying for the year 2021?** Thessalonians is my favorite chapter, ask me why.
