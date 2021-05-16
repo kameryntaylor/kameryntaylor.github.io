@@ -13,15 +13,15 @@ kammywhams/kammywhams is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-> in·form·ant<br>
-/inˈfôrmənt/<br>
-Learn to pronounce<br>
-noun<br>
-a person who gives information to another.<br>
-another term for informer.<br>
-a person from whom a linguist or anthropologist obtains information about language, dialect, or culture.<br>
-<br>
-Definitions from Oxford Languages<br>
+> in·form·ant  
+/inˈfôrmənt/  
+Learn to pronounce  
+noun  
+a person who gives information to another.  
+another term for informer.  
+a person from whom a linguist or anthropologist obtains information about language, dialect, or culture.  
+  
+Definitions from Oxford Languages  
 
 
 **What I learned in coding:** Never copy other peers around you on a way to approach a project, always get as close to the source as possible and derive your own approach to solving pallet<br><br>
