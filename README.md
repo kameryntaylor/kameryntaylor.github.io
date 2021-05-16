@@ -4,9 +4,9 @@
 - 🌱 I’m currently learning ... python3, javascript, and powershell
 - 💞️ I’m looking to collaborate on ... mathematical projects
 - 📫 How to reach me ... 
-     - email:taylorkameryn26@gmail.com
-     - twitter:@kammywhams_
-     - YouTube:Kameryn Janai Taylor
+     - ✉️ taylorkameryn26@gmail.com
+     - 👥 kammywhams_
+     - 📺 Kameryn Janai Taylor
 
 <!---
 kammywhams/kammywhams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
