@@ -17,6 +17,7 @@ You can click the Preview link to take a look at your changes.
 > /inˈfôrmənt/  
 > Learn to pronounce  
 >> noun  
+>  
 > a person who gives information to another.  
 > another term for informer.  
 > a person from whom a linguist or anthropologist obtains information about language, dialect, or culture.  
