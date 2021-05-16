@@ -21,12 +21,12 @@ a person from whom a linguist or anthropologist obtains information about langua
 Definitions from Oxford Languages<br>
 
 
-<strong>What I learned in coding:</strong> Never copy other peers around you on a way to approach a project, always get as close to the source as possible and derive your own approach to solving pallet<br><br>
+**What I learned in coding:** Never copy other peers around you on a way to approach a project, always get as close to the source as possible and derive your own approach to solving pallet<br><br>
 
-<strong>We all know all things come from GOD so what is he saying for the year 2021?</strong> Thessalonians is my favorite chapter, ask me why.
+**We all know all things come from GOD so what is he saying for the year 2021?** Thessalonians is my favorite chapter, ask me why.
 
-<h3>Ideas</h3>
-- Add sharable package inside chip bags to teach sharing. For example: a bag of chips will come with 2 smaller bags inside to share.
+*Ideas
+  *Add sharable package inside chip bags to teach sharing. For example: a bag of chips will come with 2 smaller bags inside to share.
 
 
 <br>
