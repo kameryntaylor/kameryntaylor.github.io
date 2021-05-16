@@ -13,13 +13,13 @@ kammywhams/kammywhams is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-####in·form·ant####  
+###in·form·ant###  
 */inˈfôrmənt/*  
   
-*noun*   
-     a person who gives information to another.  
-          - another term for informer.  
-          - a person from whom a linguist or anthropologist obtains information about language, dialect, or culture.  
+*noun*  
+a person who gives information to another.  
+- another term for informer.  
+- a person from whom a linguist or anthropologist obtains information about language, dialect, or culture.  
   
 Definitions from Oxford Languages  
 
