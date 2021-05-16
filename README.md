@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on ... mathematical projects
 - 📫 How to reach me ... 
      - email:taylorkameryn26@gmail.com
-     - twitter:kammywhams_
+     - twitter:@kammywhams_
      - YouTube:Kameryn Janai Taylor
 
 <!---
@@ -13,8 +13,8 @@ kammywhams/kammywhams is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-in·form·ant<br>
-/inˈfôrmənt/<br>
+in·form·ant
+/inˈfôrmənt/
 Learn to pronounce<br>
 > Blockquote noun
 a person who gives information to another.<br>
