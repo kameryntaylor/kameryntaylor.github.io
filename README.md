@@ -28,10 +28,9 @@ Definitions from Oxford Languages<br>
 <h2>Ideas</h2>
 
 <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ul>  
+  <li>Add sharable package inside chip bags to teach sharing. For example: a bag of chips will come with 2 smaller bags inside to share.</li>
+</ul>
+
 <br>
 
 Phobias inhibit intellectual discoveries
