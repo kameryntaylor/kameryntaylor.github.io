@@ -34,7 +34,7 @@ Definitions from Oxford Languages<br>
 Phobias inhibit intellectual discoveries
 
 
-![First Painting](https://github.com/kammywhams/kammywhams.github.io/blob/main/IMG_20210516_135431.jpg)
+![First Painting](/blob/main/IMG_20210516_135431.jpg)
 
 
 join me on my journey...(father,son,**holy spirit**)
