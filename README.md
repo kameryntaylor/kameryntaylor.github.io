@@ -3,7 +3,9 @@
 - 👀 I’m interested in ...cyber security
 - 🌱 I’m currently learning ... python3, javascript, and powershell
 - 💞️ I’m looking to collaborate on ... mathematical projects
-- 📫 How to reach me ... taylorkameryn26@gmail.com, twitter:kammywhams_, YouTube:Kameryn Janai Taylor
+- 📫 How to reach me ... taylorkameryn26@gmail.com
+-   twitter:kammywhams_
+-   YouTube:Kameryn Janai Taylor
 
 <!---
 kammywhams/kammywhams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
