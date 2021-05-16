@@ -25,6 +25,6 @@ Definitions from Oxford Languages<br>
 
 <strong>We all know all things come from GOD so what is he saying for the year 2021?</strong> Thessalonians is my favorite chapter, ask me why.
 
-<br></br>
+<br>
 
 Phobias inhibit intellectual discoveries
