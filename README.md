@@ -13,10 +13,10 @@ kammywhams/kammywhams is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-in·form·ant
+> in·form·ant
 /inˈfôrmənt/
 Learn to pronounce<br>
-> Blockquote noun
+noun
 a person who gives information to another.<br>
 another term for informer.<br>
 a person from whom a linguist or anthropologist obtains information about language, dialect, or culture.<br>
