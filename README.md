@@ -37,4 +37,6 @@ Phobias inhibit intellectual discoveries
 
 join me on my journey...(father,son,**holy spirit**)
 
-Π x emr +12 derives the meaning of 7
+Π x emr +12 derives the meaning of 7  
+
+![Spiral](/artw.jpg)
