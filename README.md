@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m @kammywhams
+- 👋 Hi, I’m Thalia
 - 👀 I’m interested in ...cyber security
 - 🌱 I’m currently learning ... python3, javascript, and powershell
 - 💞️ I’m looking to collaborate on ... mathematical projects
