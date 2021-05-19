@@ -6,7 +6,7 @@
 - 📫 How to reach me ... 
      - ✉️ taylorkameryn26@gmail.com
      - 👥 kammywhams_
-     - 📺 Kameryn Janai Taylor
+     - 📺 Kameryn Janai Taylor  
 Check out My Knowledge & Research page - knowledge: kammywhams.github.io/knowledge research: kammywhams.github.io/research
 <!---
 kammywhams/kammywhams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
