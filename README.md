@@ -42,3 +42,6 @@ join me on my journey...(father,son,**holy spirit**)
 ![Spiral](/artw.jpg)
 
 ![Trust_Surrender_Believe](/tsb2.jpg)
+
+##From noow on this main page is just  goiing to be a Data Dump i.e. From my head to youreyebrows heh
+
