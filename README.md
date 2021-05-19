@@ -8,7 +8,7 @@
      - 👥 kammywhams_
      - 📺 Kameryn Janai Taylor  
    
-Check out My **Knowledge** [knowledge](kammywhams.github.io/knowledge) & **Research** [research](kammywhams.github.io/research) page 
+Check out My **Knowledge** [knowledge](kammywhams.github.io/Knowledge) & **Research** [research](kammywhams.github.io/Research) page 
 <!---
 kammywhams/kammywhams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
