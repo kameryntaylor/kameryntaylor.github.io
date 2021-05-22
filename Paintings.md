@@ -3,6 +3,7 @@
 [Next Page (Knowledge)](/Knowledge.md)  
 
 ![Trust_Surrender_Believe](/assets/tsb.jpg)  
+If we could summarize the holy trinity's advice into one word, God would say Trust me, Jesus would say Surrender to your love, and the Holy Sprit will say Believe in change when it comes into your awareness.  
 ![Spiral](/assets/artw.jpg)  
 ![Trust_Surrender_Believe](/assets/tsb2.jpg)  
 This painting is inspired by the verse " I, Paul, myself entreat you, by the meekness and gentleness of Christ--I who am humble when face to face with you, but bold toward you when I am away!--" - 2 Corinthians 10:1  
