@@ -47,4 +47,5 @@ join me on my journey...(father,son,**holy spirit**)
 ## From noow on this main page is just  goiing to be a Data Dump i.e. From my head to youreyebrows heh
 
 ![Trust_Surrender_Believe](/tsb3.jpg)
+This painting is about American image of BEAUTY. The three dots are reflected so they should be seen as three not six; it represents the Father, Son, and Holy Spirit. The smudged grey lettering in the background says: “Trust” “Surrender” “Believe” in that order.
 
