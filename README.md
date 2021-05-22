@@ -46,3 +46,5 @@ join me on my journey...(father,son,**holy spirit**)
 
 ## From noow on this main page is just  goiing to be a Data Dump i.e. From my head to youreyebrows heh
 
+![Trust_Surrender_Believe](/tsb3.jpg)
+
