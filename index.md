@@ -1,6 +1,6 @@
 ---
 title: Welcome
-layout: template
+layout: home
 filename: index.md
 --- 
 - 👋 Hi, I’m Thalia
