@@ -1,8 +1,3 @@
----
-title: Welcome
-layout: home
-filename: index.md
---- 
 - 👋 Hi, I’m Thalia
 - 👀 I’m interested in ...cyber security
 - 🌱 I’m currently learning ... python3, javascript, and powershell
@@ -37,6 +32,7 @@ Definitions from Oxford Languages
   *Add sharable package inside chip bags to teach sharing. For example: a bag of chips will come with 2 smaller bags inside to share.
 
 Phobias inhibit intellectual discoveries
+[Next Page (Paintings)](/Paintings.md)
 
 
 
