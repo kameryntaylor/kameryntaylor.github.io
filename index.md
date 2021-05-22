@@ -1,6 +1,6 @@
-[Next Page (Paintings)](/Paintings.md)
-[Next Page (Knowledge)](/Knowledge.md)
-[Next Page (Research)](/Research.md)
+[Next Page (Paintings)](/Paintings.md)  
+[Next Page (Knowledge)](/Knowledge.md)  
+[Next Page (Research)](/Research.md)  
 
 - 👋 Hi, I’m Thalia
 - 👀 I’m interested in ...cyber security
@@ -24,21 +24,11 @@ a person who gives information to another.
 - a person from whom a linguist or anthropologist obtains information about language, dialect, or culture.  
   
 Definitions from Oxford Languages  
-  
-  
 **What I learned in coding:** Never copy other peers around you on a way to approach a project, always get as close to the source as possible and derive your own approach to solving pallet  
-
-**We all know all things come from GOD so what is he saying for the year 2021?** Thessalonians is my favorite chapter, ask me why.
-
-*Ideas
-  *Add sharable package inside chip bags to teach sharing. For example: a bag of chips will come with 2 smaller bags inside to share.
-
-Phobias inhibit intellectual discoveries
-[Next Page (Paintings)](/Paintings.md)
-
-
-
-join me on my journey...(father,son,**holy spirit**)
-
+**We all know all things come from GOD so what is he saying for the year 2021?** Thessalonians is my favorite chapter, ask me why.  
+*Ideas  
+  *Add sharable package inside chip bags to teach sharing. For example: a bag of chips will come with 2 smaller bags inside to share.  
+Phobias inhibit intellectual discoveries  
+join me on my journey...(father,son,**holy spirit**)  
 Π x emr +12 derives the meaning of 7  
 
