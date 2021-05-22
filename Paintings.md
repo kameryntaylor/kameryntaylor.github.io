@@ -1,7 +1,7 @@
 ---
-title: PAGE TITLE HERE
-layout: template
-filename: NAME OF THIS .md FILE HERE
+title: Paintings
+layout: jekyll-theme-slate
+filename: paintings.md
 --- 
 
 ![Trust_Surrender_Believe](/assets/tsb.jpg)  
