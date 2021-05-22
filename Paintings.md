@@ -1,6 +1,6 @@
 ---
 title: Paintings
-layout: jekyll-theme-slate
+layout: template
 filename: paintings.md
 --- 
 
