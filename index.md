@@ -1,3 +1,7 @@
+[Next Page (Paintings)](/Paintings.md)
+[Next Page (Knowledge)](/Knowledge.md)
+[Next Page (Research)](/Research.md)
+
 - 👋 Hi, I’m Thalia
 - 👀 I’m interested in ...cyber security
 - 🌱 I’m currently learning ... python3, javascript, and powershell
@@ -5,9 +9,7 @@
 - 📫 How to reach me ... 
      - ✉️ taylorkameryn26@gmail.com
      - 👥 kammywhams_
-     - 📺 Kameryn Janai Taylor  
-   
-Check out My **Knowledge** [knowledge](kammywhams.github.io/Knowledge) & **Research** [research](kammywhams.github.io/Research) page 
+     - 📺 Kameryn Janai Taylor   
 <!---
 kammywhams/kammywhams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -39,4 +41,4 @@ Phobias inhibit intellectual discoveries
 join me on my journey...(father,son,**holy spirit**)
 
 Π x emr +12 derives the meaning of 7  
-[Next Page (Paintings)](/Paintings.md)
+
