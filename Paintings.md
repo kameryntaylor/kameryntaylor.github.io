@@ -1,3 +1,9 @@
+---
+title: PAGE TITLE HERE
+layout: template
+filename: NAME OF THIS .md FILE HERE
+--- 
+
 ![Trust_Surrender_Believe](/assets/tsb.jpg)  
 ![Spiral](/assets/artw.jpg)  
 ![Trust_Surrender_Believe](/assets/tsb2.jpg)   
