@@ -1,7 +1,7 @@
 ---
 title: Welcome
 layout: jekyll-theme-slate
-filename: index
+filename: index.md
 --- 
 
 
