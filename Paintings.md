@@ -1,7 +1,7 @@
 ---
 title: Paintings
 layout: template
-filename: paintings.md
+filename: Paintings.md
 --- 
 
 ![Trust_Surrender_Believe](/assets/tsb.jpg)  
