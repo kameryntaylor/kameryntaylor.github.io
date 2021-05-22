@@ -1,6 +1,6 @@
 ---
 title: Welcome
-layout: template
+layout: jekyll-theme-slate
 filename: index
 --- 
 
