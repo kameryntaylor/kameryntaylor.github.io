@@ -3,8 +3,6 @@ title: Welcome
 layout: template
 filename: index.md
 --- 
-
-
 - 👋 Hi, I’m Thalia
 - 👀 I’m interested in ...cyber security
 - 🌱 I’m currently learning ... python3, javascript, and powershell
