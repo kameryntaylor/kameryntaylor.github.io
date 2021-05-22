@@ -14,7 +14,7 @@
 kammywhams/kammywhams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Check Back On My Site Weekly, Im am a real person adding new things everyday I promise hah.  
+#### Check Back On My Site Weekly, Im am a real person adding new things everyday I promise hah.  
 #### in·form·ant  
 */inˈfôrmənt/*  
   
