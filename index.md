@@ -2,19 +2,22 @@
 [Next Page (Knowledge)](/Knowledge.md)  
 [Next Page (Research)](/Research.md)  
 
-- 👋 Hi, I’m Thalia
-- 👀 I’m interested in ...cyber security
-- 🌱 I’m currently learning ... python3, javascript, and powershell
-- 💞️ I’m looking to collaborate on ... mathematical projects
-- 📫 How to reach me ... 
-     - ✉️ taylorkameryn26@gmail.com
-     - 👥 kammywhams_
-     - 📺 Kameryn Janai Taylor   
+#### Check Back On My Site Weekly, Im am a real person adding new things everyday I promise hah.  
+
+- 👋 Hi, I’m Thalia  
+- 👀 I’m interested in ...cyber security  
+- 🌱 I’m currently learning ... python3, javascript, and powershell  
+- 💞️ I’m looking to collaborate on ... mathematical projects  
+- 📫 How to reach me ...  
+     - ✉️ taylorkameryn26@gmail.com  
+     - 👥 kammywhams_  
+     - 📺 Kameryn Janai Taylor  
+ 
 <!---
 kammywhams/kammywhams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-#### Check Back On My Site Weekly, Im am a real person adding new things everyday I promise hah.  
+
 #### in·form·ant  
 */inˈfôrmənt/*  
   
