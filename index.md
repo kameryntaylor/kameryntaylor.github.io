@@ -1,4 +1,4 @@
-#### Check Back On My Site Weekly, Im am a real person adding new things everyday I promise hah.  
+
 [Next Page (Paintings)](/Paintings.md)  
 [Next Page (Knowledge)](/Knowledge.md)  
 [Next Page (Research)](/Research.md)  
