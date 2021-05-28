@@ -1,3 +1,8 @@
+[Next Page (Paintings)](/Paintings.md)  
+[Next Page (Knowledge)](/Knowledge.md)  
+[Next Page (Research)](/Research.md)  
+[Next Page (Home Page)](/index.md)
+
 ### I do not expect you to accept my versus below as correct, although I did try my best to get them right however, Ive decided not to add the scripture source so that you can become more familiar with the Bible and connect these two versus on your own! with out me telling you where in the bible it is. I will say these all come from the New Testament.
 
 "It was to show his righteousness at the present time, so that he might be just and the justifier of the one who has faith in Jesus."  
