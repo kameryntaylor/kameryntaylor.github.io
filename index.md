@@ -2,6 +2,7 @@
 [Next Page (Paintings)](/Paintings.md)  
 [Next Page (Knowledge)](/Knowledge.md)  
 [Next Page (Research)](/Research.md)  
+[Next Page (Scriptures)](/Verses.md)  
 
 - 👋 Hi, I’m Thalia  
 - 👀 I’m interested in ...cyber security  
