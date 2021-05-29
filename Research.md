@@ -1,1 +1,1 @@
-[Next Page - Home Page](/index.md) | [Next Page - Knowledge](/Knowledge.md) | [Next Page - Paintings](/Paintings.md) | [Next Page - Scriptures](/Verses.md)  
+[Next Page - Home Page](/index.md) | [Next Page - Knowledge to Share](/Knowledge.md) | [Next Page - My Paintings](/Paintings.md) | [Next Page - Scriptures](/Verses.md)  
