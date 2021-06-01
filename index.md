@@ -26,5 +26,5 @@ Definitions from Oxford Languages
   
 ## join me on my journey...(father,son,**holy spirit**)  
   
-![businesscards](/assets/bc.PNG)
+![businesscards](/assets/bc2.PNG)
 
