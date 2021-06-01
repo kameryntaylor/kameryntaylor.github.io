@@ -1,7 +1,7 @@
 [Next Page - Knowledge to Share](/Knowledge.md) | [Next Page - Research I've Done](/Research.md) | [Next Page - My Paintings](/Paintings.md) | [Next Page - Scriptures](/Verses.md) | [Next Page - Music/Videos](/CO.md)  
-
+![businesscards](/assets/bc3.PNG)  
 - 👋 Hi, I’m Thalia  
-- 👀 I’m interested in ...cyber security  ![businesscards](/assets/bc3.PNG)
+- 👀 I’m interested in ...cyber security  
 - 🌱 I’m currently learning ... python3, javascript, and powershell  
 - 💞️ I’m looking to collaborate on ... mathematical projects  
 - 📫 How to reach me ...  
