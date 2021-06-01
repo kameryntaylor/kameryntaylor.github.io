@@ -1,5 +1,5 @@
 [Next Page - Knowledge to Share](/Knowledge.md) | [Next Page - Research I've Done](/Research.md) | [Next Page - My Paintings](/Paintings.md) | [Next Page - Scriptures](/Verses.md) | [Next Page - Music/Videos](/CO.md)   
-                                                               ![businesscards](/assets/bc3.PNG)  
+                                                               ![businesscards](/assets/bc4.PNG)  
 
 
 - 👋 Hi, I’m Thalia  
