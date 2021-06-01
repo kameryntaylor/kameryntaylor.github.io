@@ -23,9 +23,5 @@ a person who gives information to another.
   
 Definitions from Oxford Languages  
 
-*Ideas  
-  *Add sharable package inside chip bags to teach sharing. For example: a bag of chips will come with 2 smaller bags inside to share.  
-Phobias inhibit intellectual discoveries  
-join me on my journey...(father,son,**holy spirit**)  
-Π x emr +12 derives the meaning of 7  
+
 
