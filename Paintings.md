@@ -1,6 +1,6 @@
 [Next Page - Home Page](/index.md) | [Next Page - Knowledge to Share](/Knowledge.md) | [Next Page - Research to Share](/Research.md) | [Next Page - Scriptures](/Verses.md) | [Next Page - Music/Videos](/CO.md)  
 
-![Trust_Surrender_Believe](/assets/tsb.jpg) ![Spiral](/assets/artw.jpg)
+![Trust_Surrender_Believe](/assets/tsb.jpg) ![Spiral](/assets/artw.jpg)  
 If we could summarize the holy trinity's advice into one word, God would say Trust me, Jesus would say Surrender to your love, and the Holy Sprit will say Believe in change when it comes into your awareness.  
 
 ![Trust_Surrender_Believe](/assets/tsb2.jpg) ![Trust_Surrender_Believe](/assets/tsb3.jpg) ![Trust_Surrender_Believe](/assets/tsb4.jpg) ![Trust_Surrender_Believe](/assets/tsb5.jpg) 
