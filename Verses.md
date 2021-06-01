@@ -1,4 +1,4 @@
-[Next Page - Home Page](/index.md) | [Next Page - Knowledge to Share](/Knowledge.md) | [Next Page - Research I've Done](/Research.md) | [Next Page - My Paintings](/Paintings.md) | [Next Page - Creative Outlets](/CO.md)  
+[Next Page - Home Page](/index.md) | [Next Page - Knowledge to Share](/Knowledge.md) | [Next Page - Research I've Done](/Research.md) | [Next Page - My Paintings](/Paintings.md) | [Next Page - Music/Videos](/CO.md)  
 
 ### I do not expect you to accept my versus below as correct, although I did try my best to get them right however, Ive decided not to add the scripture source so that you can become more familiar with the Bible and connect these two versus on your own! with out me telling you where in the bible it is. I will say these all come from the New Testament.
 
