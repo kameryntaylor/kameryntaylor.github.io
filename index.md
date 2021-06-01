@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Thalia  
 - 👀 I’m interested in ...cyber security  
-- 🌱 I’m currently learning ... python3, javascript, and powershell  
+- 🌱 I’m currently learning ... python3, javascript, and powershell ![businesscards](/assets/bc3.PNG)
 - 💞️ I’m looking to collaborate on ... mathematical projects  
 - 📫 How to reach me ...  
      - ✉️ email: taylorkameryn26@gmail.com  
@@ -26,5 +26,5 @@ Definitions from Oxford Languages
   
 ## join me on my journey...(father,son,**holy spirit**)  
   
-![businesscards](/assets/bc2.PNG)
+![businesscards](/assets/bc3.PNG)
 
