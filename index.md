@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on ... mathematical projects  
 - 📫 How to reach me ...  
      - ✉️ email: taylorkameryn26@gmail.com  
-     - 👥 twitter: kammywhams_    
+     - 👥 twitter: taylorkameryn7   
  
 <!---
 kammywhams/kammywhams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,4 +26,4 @@ Definitions from Oxford Languages
   
 ## join me on my journey...(father,son,**holy spirit**)  
 
-![businesscards](/assets/bc4.PNG)  
+<!--- !818-6472019[businesscards](/assets/bc4.PNG) --->
