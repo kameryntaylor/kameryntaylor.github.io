@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on ... mathematical projects  
 - 📫 How to reach me ...  
      - ✉️ email: taylorkameryn26@gmail.com  
-     - 👥 twitter: taylorkameryn7   
+     - 👥 twitter: taylorkameryn26   
  
 <!---
 kammywhams/kammywhams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
