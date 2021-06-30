@@ -4,9 +4,3 @@ description: Cross between Religion, Mathematical formulas, and Cyber Security.
 url: "kammywhams.github.io"
 markdown: kramdown
 permalink: /:categories/:year/:month/:day/:title:output_ext
-defaults:
-  - scope:
-      path: "/assets/"
-    values:
-      image: true
-
