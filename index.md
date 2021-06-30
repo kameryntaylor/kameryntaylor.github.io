@@ -36,19 +36,3 @@ Definitions from Oxford Languages
 
 ![businesscards](/assets/bc5.PNG)  
 join me on my journey...(father, son, holy spirit)  
-
-footer-links:
-  dribbble:
-  email: joubin@jabbari.io
-  facebook: joubinj
-  flickr:
-  github: joubin
-  instagram: joubin
-  linkedin: joubin-jabbari-b219119
-  pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: joubinj
-  stackoverflow: users/1048138/cripto # your stackoverflow profile, e.g. "users/3807565/akshay"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
-
