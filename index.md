@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kameryn aka Kammywhams  
-- 👀 I’m interested in ...cyber security, mathematics, religion, psychology, politics/government
+- 👀 I’m interested in ...cyber security, pure mathematics, religion, psychology, politics/government
 - 🌱 I’m currently learning ... python3, javascript, and powershell  
 - 💞️ I’m looking to collaborate on ... pure mathematics projects  
 - 📫 How to reach me ...  
