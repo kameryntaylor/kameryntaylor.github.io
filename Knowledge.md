@@ -1,9 +1,8 @@
----
-layout: page
-title: Knowledge
-permalink: /knowledge/
-navigation_weight: 6
----
+---  
+layout: page  
+title: "Knowledge"  
+permalink: /Knowledge/  
+---  
 
 
 <!--- [Next Page - Home Page](/index.md) | [Next Page - Research I've Done](/Research.md) | [Next Page -My Paintings](/Paintings.md) | [Next Page - Scriptures](/Verses.md) | [Next Page - Music/Videos](/CO.md) ---> 
