@@ -1,8 +1,3 @@
----
-layout: default
-title: index
-permalink: /Home/
----
 
 
 - 👋 Hi, I’m Kameryn aka Kammywhams  
