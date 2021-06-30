@@ -34,4 +34,4 @@ a person who gives information to another.
 Definitions from Oxford Languages  
 
 ![businesscards](/assets/bc5.PNG)  
-join me on my journey...(father, son, holy spirit)  -
+join me on my journey...(father, son, holy spirit)  
