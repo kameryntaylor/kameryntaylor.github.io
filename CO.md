@@ -1,3 +1,10 @@
+---
+layout: posts
+title: "Exploring my creative side"
+permalink: /CreativeOutlet/
+---
+
+
 Hello, this is where I am posting links to my videos on youtube. Also search my profile on Spotify! hit me up if you want a playlist. I love making playlists helping people get through their day.
 
 📺 [Youtube: Kameryn Janai Taylor](https://www.youtube.com/channel/UCJxjMRQLUEYuJ81VhhzpBng)  
