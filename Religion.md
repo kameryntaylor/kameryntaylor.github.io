@@ -17,3 +17,5 @@ permalink: /Verses/
 "God exalted him at his right has as Leader and Savior, to give repentance to Isreal and forgiveness of sins."  
 "In the meantime, when so many thousands of people had gathered together that they were tramplinong one another, he began to say to his diciples first, "Beware of tge leaven of the Pharisees, which is hypocrisy."  
 "Moved with pity, he stretched out his hand and touched him and said to him, "I will; be clean."
+
+**We all know all things come from GOD so what is he saying for the year 2021?** Thessalonians is my favorite chapter, ask me why. 
