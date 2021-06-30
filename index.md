@@ -17,8 +17,8 @@ layout: default
      - [Github: Kammywhams](https://github.com/kammywhams/kammywhams.github.io)
      - [Instagram: Kammywhams](https://www.instagram.com/kammywhams/)
      - [Pinterest: Kameryntaylor](https://www.pinterest.com/kameryntaylor/)
-     - [Youtube: Kameryn Janai Taylor](https://www.youtube.com/channel/UCJxjMRQLUEYuJ81VhhzpBng) --->
- 
+     - [Youtube: Kameryn Janai Taylor](https://www.youtube.com/channel/UCJxjMRQLUEYuJ81VhhzpBng)
+ --->
 <!---
 kammywhams/kammywhams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
