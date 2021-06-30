@@ -1,10 +1,3 @@
----  
-layout: page  
-title: "Paintings"  
-permalink: /Paintings/  
----  
-
-
 <!--- [Next Page - Home Page](/index.md) | [Next Page - Knowledge to Share](/Knowledge.md) | [Next Page - Research to Share](/Research.md) | [Next Page - Scriptures](/Verses.md) | [Next Page - Music/Videos](/CO.md)  --->
 
 ![Trust_Surrender_Believe](/assets/tsb.jpg) ![Spiral](/assets/artw.jpg)  
