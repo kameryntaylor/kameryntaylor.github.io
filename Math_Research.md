@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: "Pure Mathematics Research"
-permalink: /MResearch/
+permalink: /MathResearch/
 ---
 
 
