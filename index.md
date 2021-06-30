@@ -1,6 +1,6 @@
 ---
-layout: null
-title: index
+layout: default
+title: 
 permalink: https://kammywhams.github.io/index.md/
 ---
 
