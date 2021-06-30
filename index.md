@@ -31,4 +31,4 @@ Definitions from Oxford Languages
   
 ## join me on my journey...(father, son, holy spirit)  
 
-<!--- !818-6472019[businesscards](/assets/bc4.PNG) --->
+<!--- ![businesscards](/assets/bc5.PNG) --->
