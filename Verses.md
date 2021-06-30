@@ -1,6 +1,8 @@
+---
 layout: posts
 title: "Scriptures"
 permalink: /Verses/
+---
 
 
 <!--- [Next Page - Home Page](/index.md) | [Next Page - Knowledge to Share](/Knowledge.md) | [Next Page - Research I've Done](/Research.md) | [Next Page - My Paintings](/Paintings.md) | [Next Page - Music/Videos](/CO.md)  --->
