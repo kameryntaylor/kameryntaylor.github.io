@@ -8,11 +8,11 @@ permalink: /home/
 - 👀 I’m interested in ...cyber security  
 - 🌱 I’m currently learning ... python3, javascript, and powershell  
 - 💞️ I’m looking to collaborate on ... pure mathematical projects  
-- 📫 How to reach me ...  
-social-network-links:  
-     email: taylorkameryn26@gmail.com   
-     twitter: taylorkameryn26  
-     linkedin: https://www.linkedin.com/in/kameryn-taylor-b42928aa/  
+- 📫 How to reach me ...   
+social-network-links:
+     - email: taylorkameryn26@gmail.com   
+     - twitter: taylorkameryn26  
+     - linkedin: https://www.linkedin.com/in/kameryn-taylor-b42928aa/  
  
 <!---
 kammywhams/kammywhams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
