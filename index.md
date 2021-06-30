@@ -10,8 +10,8 @@ layout: default
 - 💞️ I’m looking to collaborate on ... pure mathematics projects  
 - 📫 How to reach me ...   
      - email: taylorkameryn26@gmail.com   
-     - [Twitter](https://www.twitter.com/taylorkameryn26)  
-     - [LinkedIn](https://www.linkedin.com/in/kameryn-taylor-b42928aa/)  
+     - [Twitter: @taylorkameryn26](https://www.twitter.com/taylorkameryn26)  
+     - [LinkedIn: kameryntaylor](https://www.linkedin.com/in/kameryn-taylor-b42928aa/)  
  
 <!---
 kammywhams/kammywhams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
