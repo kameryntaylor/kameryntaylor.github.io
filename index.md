@@ -1,9 +1,8 @@
 ---  
-layout: default  
+layout: page  
 title: "index"  
 permalink: /index/  
 ---  
-
 
 
 - 👋 Hi, I’m Kameryn aka Kammywhams  
