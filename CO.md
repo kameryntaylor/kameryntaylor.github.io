@@ -1,9 +1,8 @@
-Hello, this is where I am posting links to my videos on youtube. Also search my profile on Spotify! OR have me make a playlist JUST FOR YOU. Hit me up :)  
+Hello, this is where I am posting links to my videos on youtube. Also search my profile on Spotify! hit me up if you want a playlist. I love making playlists helping people get through their day.
 
-📺 Youtube: Kameryn Janai Taylor  
+📺 [Youtube: Kameryn Janai Taylor](https://www.youtube.com/channel/UCJxjMRQLUEYuJ81VhhzpBng)  
 🎵 Spotify: Taylorkameryn  
-  
-Hey y'all, hit me up if you want a playlist. I love making playlists helping people get through their day.
+--------------------------------------------------------------------------------------
 
 ### Check Out Some of my Paintings!
 
