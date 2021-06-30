@@ -2,6 +2,7 @@
 layout: page
 title: Knowledge
 permalink: /knowledge/
+navigation_weight: 6
 ---
 
 
