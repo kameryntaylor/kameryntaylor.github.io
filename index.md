@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "index"
-permalink: /index.md/
+title: "Home"
+permalink: /index/
 ---
 
 - 👋 Hi, I’m Kameryn aka Kammywhams  
