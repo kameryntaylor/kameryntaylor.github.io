@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Verses
-permalink: /verses/
-navigation_weight: 4
+title: verses
+permalink: https://kammywhams.github.io/verses/
 ---
 
 
