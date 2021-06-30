@@ -1,8 +1,4 @@
----
-layout: default
-title: "Home"
-permalink: /index/
----
+
 
 - 👋 Hi, I’m Kameryn aka Kammywhams  
 - 👀 I’m interested in ...cyber security  
