@@ -2,7 +2,6 @@
 layout: posts
 title: "Hand Selected Scriptures"
 permalink: /Verses/
-date: 6/30/21
 author: Kameryn Janai Taylor
 ---
 
