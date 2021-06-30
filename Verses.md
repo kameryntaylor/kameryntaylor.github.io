@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "verses"
-permalink: /https://kammywhams.github.io/verses/
+permalink: /https://kammywhams.github.io/Verses/
 ---
 
 
