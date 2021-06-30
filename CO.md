@@ -2,7 +2,7 @@
 layout: posts
 title: "Exploring my creative side"
 permalink: /CreativeOutlet/
-author: Kameryn Janai Taylor**
+author: Kameryn Janai Taylor
 ---
 
 
