@@ -1,9 +1,9 @@
 [Next Page - Knowledge to Share](/Knowledge.md) | [Next Page - Research I've Done](/Research.md) | [Next Page - My Paintings](/Paintings.md) | [Next Page - Scriptures](/Verses.md) | [Next Page - Music/Videos](/CO.md)   
 
-- 👋 Hi, I’m Thalia  
+- 👋 Hi, I’m Kameryn aka Thalia  
 - 👀 I’m interested in ...cyber security  
 - 🌱 I’m currently learning ... python3, javascript, and powershell  
-- 💞️ I’m looking to collaborate on ... mathematical projects  
+- 💞️ I’m looking to collaborate on ... pure mathematical projects  
 - 📫 How to reach me ...  
      - ✉️ email: taylorkameryn26@gmail.com  
      - 👥 twitter: taylorkameryn26   
@@ -24,6 +24,6 @@ a person who gives information to another.
 Definitions from Oxford Languages  
   
   
-## join me on my journey...(father,son,**holy spirit**)  
+## join me on my journey...(father,son,holy spirit)  
 
 <!--- !818-6472019[businesscards](/assets/bc4.PNG) --->
