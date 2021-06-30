@@ -5,9 +5,7 @@ permalink: /Verses/
 ---
 
 
-<!--- [Next Page - Home Page](/index.md) | [Next Page - Knowledge to Share](/Knowledge.md) | [Next Page - Research I've Done](/Research.md) | [Next Page - My Paintings](/Paintings.md) | [Next Page - Music/Videos](/CO.md)  --->
-
-### I do not expect you to accept my versus below as correct, although I did try my best to get them right however, Ive decided not to add the scripture source so that you can become more familiar with the Bible and connect these two versus on your own! with out me telling you where in the bible it is. I will say these all come from the New Testament.
+### I do not expect you to accept my verses below as correct, although I did try my best to get them right however, Ive decided not to add the scripture source so that you can become more familiar with the Bible and connect these two verses on your own! with out me telling you where in the Bible it is. I will say these all come from the New Testament.
 
 "It was to show his righteousness at the present time, so that he might be just and the justifier of the one who has faith in Jesus."  
 "an instrustor of the foolish, a teacher of children, having in the law the embodiment of knowledge and truth--"  
@@ -19,4 +17,3 @@ permalink: /Verses/
 "God exalted him at his right has as Leader and Savior, to give repentance to Isreal and forgiveness of sins."  
 "In the meantime, when so many thousands of people had gathered together that they were tramplinong one another, he began to say to his diciples first, "Beware of tge leaven of the Pharisees, which is hypocrisy."  
 "Moved with pity, he stretched out his hand and touched him and said to him, "I will; be clean."
-
