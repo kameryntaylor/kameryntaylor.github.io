@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: "Scriptures"
+title: "Hand Selected Scriptures"
 permalink: /Verses/
 ---
 
