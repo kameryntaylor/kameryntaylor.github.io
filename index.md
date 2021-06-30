@@ -17,7 +17,6 @@ navigation_weight: 1
      - [Instagram: @Kammywhams](https://www.instagram.com/kammywhams/)
      - [Pinterest: Kameryntaylor](https://www.pinterest.com/kameryntaylor/)
      - [Youtube: Kameryn Janai Taylor](https://www.youtube.com/channel/UCJxjMRQLUEYuJ81VhhzpBng)  
-                                                            ![businesscards](/assets/bc5.PNG)
 
 <!---
 kammywhams/kammywhams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,3 +35,4 @@ Definitions from Oxford Languages
 
 
 join me on my journey...(father, son, holy spirit)  
+![businesscards](/assets/bc5.PNG)
