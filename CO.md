@@ -2,7 +2,6 @@
 layout: posts
 title: "Exploring my creative side"
 permalink: /CreativeOutlet/
-date: 6/30/21
 author: Kameryn Janai Taylor**
 ---
 
