@@ -3,3 +3,9 @@ title: Naruto once said, Once you question your own beliefs, then it's all over.
 description: Cross between Religion, Mathematical formulas, and Cyber Security.  
 url: "kammywhams.github.io"  
 markdown: kramdown  
+
+defaults:
+  - scope:
+      path: "assets/"
+    values:
+      image: true
