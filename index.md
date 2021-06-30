@@ -1,7 +1,5 @@
 ---
-layout: page
-title: Home
-permalink: /home/
+layout: default
 ---
 <!--- [Next Page - Knowledge to Share](/Knowledge.md) | [Next Page - Research I've Done](/Research.md) | [Next Page - My Paintings](/Paintings.md) | [Next Page - Scriptures](/Verses.md) | [Next Page - Music/Videos](/CO.md)   --->
 - 👋 Hi, I’m Kameryn aka Thalia  
