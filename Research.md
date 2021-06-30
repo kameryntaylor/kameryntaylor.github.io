@@ -1,9 +1,8 @@
----
-layout: page
-title: "Research"
-permalink: /Research/
-
----
+---  
+layout: page  
+title: "Research"  
+permalink: /Research/  
+---  
 
 
 <!--- [Next Page - Home Page](/index.md) | [Next Page - Knowledge to Share](/Knowledge.md) | [Next Page - My Paintings](/Paintings.md) | [Next Page - Scriptures](/Verses.md) | [Next Page - Music/Videos](/CO.md)  --->
