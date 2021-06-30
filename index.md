@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: "index"  
-permalink: /index/  
+permalink: /home/  
 ---  
 
 
