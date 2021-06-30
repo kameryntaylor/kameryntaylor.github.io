@@ -10,13 +10,14 @@ navigation_weight: 1
 - 💞️ I’m looking to collaborate on ... pure mathematics projects  
 - 📫 How to reach me ...  
      - [Email: taylorkameryn26@gmail.com](mailto::)   
-     - [Twitter: @taylorkameryn26](https://www.twitter.com/taylorkameryn26)  ![businesscards](/assets/bc5.PNG)
+     - [Twitter: @taylorkameryn26](https://www.twitter.com/taylorkameryn26)  
      - [LinkedIn: Kameryntaylor](https://www.linkedin.com/in/kameryn-taylor-b42928aa/)  
      - [Facebook: Kameryntaylor](https://www.facebook.com/kameryn.taylor.7)  
      - [Github: Kammywhams](https://github.com/kammywhams/kammywhams.github.io)
      - [Instagram: @Kammywhams](https://www.instagram.com/kammywhams/)
      - [Pinterest: Kameryntaylor](https://www.pinterest.com/kameryntaylor/)
-     - [Youtube: Kameryn Janai Taylor](https://www.youtube.com/channel/UCJxjMRQLUEYuJ81VhhzpBng)
+     - [Youtube: Kameryn Janai Taylor](https://www.youtube.com/channel/UCJxjMRQLUEYuJ81VhhzpBng)  
+                                                            ![businesscards](/assets/bc5.PNG)
 
 <!---
 kammywhams/kammywhams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
