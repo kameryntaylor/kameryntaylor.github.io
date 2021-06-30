@@ -2,6 +2,8 @@ theme: jekyll-theme-slate
 title: Naruto once said, Once you question your own beliefs, then it's all over.  
 description: Cross between Religion, Mathematical formulas, and Cyber Security.  
 
+paginate: 5
+
 navbar-links:
   Home: "index"
   Resources: "https://kammywhams.github.io/Paintings"
