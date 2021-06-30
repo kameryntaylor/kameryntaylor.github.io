@@ -9,6 +9,7 @@ layout: default
 - 🌱 I’m currently learning ... python3, javascript, and powershell  
 - 💞️ I’m looking to collaborate on ... pure mathematics projects  
 - 📫 How to reach me ...   
+<!---
      - email: taylorkameryn26@gmail.com   
      - [Twitter: @taylorkameryn26](https://www.twitter.com/taylorkameryn26)  
      - [LinkedIn: Kameryntaylor](https://www.linkedin.com/in/kameryn-taylor-b42928aa/)  
@@ -16,8 +17,7 @@ layout: default
      - [Github: Kammywhams](https://github.com/kammywhams/kammywhams.github.io)
      - [Instagram: Kammywhams](https://www.instagram.com/kammywhams/)
      - [Pinterest: Kameryntaylor](https://www.pinterest.com/kameryntaylor/)
-     - [Youtube: Kameryn Janai Taylor](https://www.youtube.com/channel/UCJxjMRQLUEYuJ81VhhzpBng)
-
+     - [Youtube: Kameryn Janai Taylor](https://www.youtube.com/channel/UCJxjMRQLUEYuJ81VhhzpBng) --->
  
 <!---
 kammywhams/kammywhams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,3 +36,19 @@ Definitions from Oxford Languages
 
 ![businesscards](/assets/bc5.PNG)  
 join me on my journey...(father, son, holy spirit)  
+
+footer-links:
+  dribbble:
+  email: joubin@jabbari.io
+  facebook: joubinj
+  flickr:
+  github: joubin
+  instagram: joubin
+  linkedin: joubin-jabbari-b219119
+  pinterest:
+  rss: # just type anything here for a working RSS icon
+  twitter: joubinj
+  stackoverflow: users/1048138/cripto # your stackoverflow profile, e.g. "users/3807565/akshay"
+  youtube: # channel/<your_long_string> or user/<user-name>
+  googleplus: # anything in your profile username that comes after plus.google.com/
+
