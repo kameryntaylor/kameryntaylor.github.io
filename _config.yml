@@ -1,17 +1,4 @@
 theme: jekyll-theme-tactile
-title: Naruto once said, Once you question your own beliefs, then it's all over.  
+title: "Naruto once said, Once you question your own beliefs, then it's all over".  
 description: Cross between Religion, Mathematical formulas, and Cyber Security.  
-
-paginate: 7
-
-include: ["_pages"]
-
-# Build settings
-markdown: kramdown
-gems:
-  - jekyll-feed
-  - jekyll-seo-tag
-exclude:
-  - Gemfile
-  - Gemfile.lock
 
