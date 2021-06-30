@@ -2,6 +2,7 @@
 layout: page
 title: CO
 permalink: /co/
+navigation_weight: 7
 ---
 
 
