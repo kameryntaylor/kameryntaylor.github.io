@@ -2,7 +2,6 @@
 layout: posts
 title: "Cyber Security"
 permalink: /Cyber/
-date: 6/30/21
 author: Kameryn Janai Taylor
 ---
 
