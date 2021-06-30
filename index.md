@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 
-permalink: https://kammywhams.github.io/index.md/
+title: "index"
+permalink: /index.md/
 ---
 
 - 👋 Hi, I’m Kameryn aka Kammywhams  
