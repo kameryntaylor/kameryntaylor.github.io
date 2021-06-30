@@ -1,3 +1,8 @@
+---
+layout: page
+title: Knowledge
+permalink: /knowledge/
+---
 <!--- [Next Page - Home Page](/index.md) | [Next Page - Research I've Done](/Research.md) | [Next Page -My Paintings](/Paintings.md) | [Next Page - Scriptures](/Verses.md) | [Next Page - Music/Videos](/CO.md) ---> 
 
 This is just a page of knowlegde I've aquired over the years, I thought I'd share since it's hard getting this type of advice since both my parents have now passed away. I know what it's lilke to not have someone to go to as a mentor/parent figure for advice. Mom died of breast cancer and Dad died because of something to do with his heart, I never knew. Hopefully I can make your life easier than mine :)
@@ -5,10 +10,6 @@ This is just a page of knowlegde I've aquired over the years, I thought I'd shar
 **What I learned in coding:** Never copy other peers around you on a way to approach a project, always get as close to the source as possible and derive your own approach to solving pallet  
 **We all know all things come from GOD so what is he saying for the year 2021?** Thessalonians is my favorite chapter, ask me why.  
 
-**HEALTH**
-- Drink half your weight in ounces everyday, so if you weigh 180lbs then you would drink 90 ounces in water everyday. That is only three 30 ounce re-fillable water bottles a day.
-- always use sunscreen and moisturizer when going outside in the sun.
-- use a face towel - which is different than a everyday towel you find. The towel should be made specifically for your face.
-- Counting calories works! Try it.
+
 
 
