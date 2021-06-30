@@ -9,9 +9,8 @@ navigation_weight: 1
 - 🌱 I’m currently learning ... python3, javascript, and powershell  
 - 💞️ I’m looking to collaborate on ... pure mathematics projects  
 - 📫 How to reach me ...  
-![businesscards](/assets/bc5.PNG)  
      - [Email: taylorkameryn26@gmail.com](mailto::)   
-     - [Twitter: @taylorkameryn26](https://www.twitter.com/taylorkameryn26)  
+     - [Twitter: @taylorkameryn26](https://www.twitter.com/taylorkameryn26)  ![businesscards](/assets/bc5.PNG)
      - [LinkedIn: Kameryntaylor](https://www.linkedin.com/in/kameryn-taylor-b42928aa/)  
      - [Facebook: Kameryntaylor](https://www.facebook.com/kameryn.taylor.7)  
      - [Github: Kammywhams](https://github.com/kammywhams/kammywhams.github.io)
