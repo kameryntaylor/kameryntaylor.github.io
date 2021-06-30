@@ -1,5 +1,7 @@
 ---
 layout: posts
+title: "index.md"
+permalink: /Home/
 ---
 
 
