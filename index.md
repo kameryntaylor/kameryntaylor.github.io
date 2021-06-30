@@ -1,8 +1,8 @@
----
-layout: page
-title: "index"
-permalink: /index/
----
+---  
+layout: page  
+title: "index"  
+permalink: /index/  
+---  
 
 
 
