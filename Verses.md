@@ -2,6 +2,7 @@
 layout: page
 title: Verses
 permalink: /verses/
+navigation_weight: 4
 ---
 
 
