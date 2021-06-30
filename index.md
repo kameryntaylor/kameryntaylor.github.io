@@ -11,7 +11,7 @@ layout: default
 - 📫 How to reach me ...   
      - email: taylorkameryn26@gmail.com   
      - twitter: taylorkameryn26  
-     - linkedin: https://www.linkedin.com/in/kameryn-taylor-b42928aa/  
+     - linkedin: [linkedin](https://www.linkedin.com/in/kameryn-taylor-b42928aa/)  
  
 <!---
 kammywhams/kammywhams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
