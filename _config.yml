@@ -4,12 +4,3 @@ description: Cross between Religion, Mathematical formulas, and Cyber Security.
 
 paginate: 5
 
-navbar-links:
-  Home: "index"
-  Resources: "https://kammywhams.github.io/Paintings"
-  Beautiful Jekyll: "https://kammywhams.github.io/Verses"
-  Learn markdown: "https://kammywhams.github.io/Knowledge"
-  Author's home: "https://kammywhams.github.io/Research"
-  
-permalink: /:title/
-
