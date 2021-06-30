@@ -9,6 +9,7 @@ navigation_weight: 1
 - 🌱 I’m currently learning ... python3, javascript, and powershell  
 - 💞️ I’m looking to collaborate on ... pure mathematics projects  
 - 📫 How to reach me ...  
+![businesscards](/assets/bc5.PNG)  
      - [Email: taylorkameryn26@gmail.com](mailto::)   
      - [Twitter: @taylorkameryn26](https://www.twitter.com/taylorkameryn26)  
      - [LinkedIn: Kameryntaylor](https://www.linkedin.com/in/kameryn-taylor-b42928aa/)  
@@ -33,5 +34,5 @@ a person who gives information to another.
   
 Definitions from Oxford Languages  
 
-![businesscards](/assets/bc5.PNG)  
+
 join me on my journey...(father, son, holy spirit)  
