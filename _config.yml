@@ -1,14 +1,3 @@
 theme: jekyll-theme-midnight
 title: Naruto once said, Once you question your own beliefs, then it's all over.    
 description: Cross between Religion, Mathematical formulas, and Cyber Security.  
-
-include: ["_pages"]
-
-# Build settings
-markdown: kramdown
-gems:
-  - jekyll-feed
-  - jekyll-seo-tag
-exclude:
-  - Gemfile
-  - Gemfile.lock
