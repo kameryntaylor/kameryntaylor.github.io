@@ -27,8 +27,6 @@ a person who gives information to another.
 - a person from whom a linguist or anthropologist obtains information about language, dialect, or culture.  
   
 Definitions from Oxford Languages  
-  
-  
-## join me on my journey...(father, son, holy spirit)  
 
-![businesscards](/assets/bc5.PNG)
+![businesscards](/assets/bc5.PNG)  
+## join me on my journey...(father, son, holy spirit)  
