@@ -10,9 +10,9 @@ permalink: /home/
 - 💞️ I’m looking to collaborate on ... pure mathematical projects  
 - 📫 How to reach me ... 
 social-network-links: 
-     - email: taylorkameryn26@gmail.com  
-     - twitter: taylorkameryn26
-     - linkedin: https://www.linkedin.com/in/kameryn-taylor-b42928aa/
+     email: taylorkameryn26@gmail.com  
+     twitter: taylorkameryn26
+     linkedin: https://www.linkedin.com/in/kameryn-taylor-b42928aa/
  
 <!---
 kammywhams/kammywhams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,6 +30,6 @@ a person who gives information to another.
 Definitions from Oxford Languages  
   
   
-## join me on my journey...(father,son,holy spirit)  
+## join me on my journey...(father, son, holy spirit)  
 
 <!--- !818-6472019[businesscards](/assets/bc4.PNG) --->
