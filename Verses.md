@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "verses"
+title: "Verses"
 permalink: /https://kammywhams.github.io/Verses.md/
 ---
 
