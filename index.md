@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: "index.md"
+title: "index"
 permalink: /Home/
 ---
 
