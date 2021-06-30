@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: index
 permalink: https://kammywhams.github.io/index/
 ---
