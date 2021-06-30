@@ -10,7 +10,7 @@ layout: default
 - 💞️ I’m looking to collaborate on ... pure mathematics projects  
 - 📫 How to reach me ...   
      - email: taylorkameryn26@gmail.com   
-     - [Twitter](www.twitter.com/taylorkameryn26)  
+     - [Twitter](https://www.twitter.com/taylorkameryn26)  
      - [LinkedIn](https://www.linkedin.com/in/kameryn-taylor-b42928aa/)  
  
 <!---
