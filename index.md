@@ -7,7 +7,7 @@ layout: default
 - 👋 Hi, I’m Kameryn aka Thalia  
 - 👀 I’m interested in ...cyber security  
 - 🌱 I’m currently learning ... python3, javascript, and powershell  
-- 💞️ I’m looking to collaborate on ... pure mathematical projects  
+- 💞️ I’m looking to collaborate on ... pure mathematics projects  
 - 📫 How to reach me ...   
      - email: taylorkameryn26@gmail.com   
      - twitter: taylorkameryn26  
@@ -31,4 +31,4 @@ Definitions from Oxford Languages
   
 ## join me on my journey...(father, son, holy spirit)  
 
-<!--- ![businesscards](/assets/bc5.PNG) --->
+![businesscards](/assets/bc5.PNG)
