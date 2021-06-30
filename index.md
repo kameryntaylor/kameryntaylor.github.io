@@ -17,6 +17,8 @@ kammywhams/kammywhams is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 ![businesscards](/assets/bc5.PNG)  
+  
+    
 #### in·form·ant  
 */inˈfôrmənt/*  
   
@@ -29,5 +31,3 @@ Definitions from Oxford Languages
 
 
 join me on my journey...(father, son, holy spirit)
---
-l
