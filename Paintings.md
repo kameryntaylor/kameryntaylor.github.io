@@ -2,6 +2,7 @@
 layout: page
 title: Paintings
 permalink: /paintings/
+navigation_weight: 5
 ---
 
 
