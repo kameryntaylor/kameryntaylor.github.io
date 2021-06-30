@@ -1,4 +1,11 @@
-[Next Page - Knowledge to Share](/Knowledge.md) | [Next Page - Research I've Done](/Research.md) | [Next Page - My Paintings](/Paintings.md) | [Next Page - Scriptures](/Verses.md) | [Next Page - Music/Videos](/CO.md)   
+<!--- [Next Page - Knowledge to Share](/Knowledge.md) | [Next Page - Research I've Done](/Research.md) | [Next Page - My Paintings](/Paintings.md) | [Next Page - Scriptures](/Verses.md) | [Next Page - Music/Videos](/CO.md)   --->
+
+
+---
+layout: page
+title: Home
+permalink: /home/
+---
 
 - 👋 Hi, I’m Kameryn aka Thalia  
 - 👀 I’m interested in ...cyber security  
