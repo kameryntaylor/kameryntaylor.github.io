@@ -1,10 +1,3 @@
----  
-layout: page  
-title: "CO"  
-permalink: /CO/  
----  
-
-
 <!--- [Next Page - Home Page](/index.md) | [Next Page - Knowledge to Share](/Knowledge.md) | [Next Page - Research I've Done](/Research.md) | [Next Page - My Paintings](/Paintings.md) | [Next Page - Scriptures](/Verses.md) --->
 
 
