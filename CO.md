@@ -21,4 +21,4 @@ If we could summarize the holy trinity's advice into one word, God would say Tru
 <!--- (tsb2) This painting is inspired by the verse " I, Paul, myself entreat you, by the meekness and gentleness of Christ--I who am humble when face to face with you, but bold toward you when I am away!--" - 2 Corinthians 10:1 --->
 <!--- (tsb3) This painting is about American image of BEAUTY. The three dots are reflected so they should be seen as three not six; it represents the Father, Son, and Holy Spirit. The smudged grey lettering in the background says: “Trust” “Surrender” “Believe” in that order. --->
 <!--- (tsb4) This picture has the wording "trust, believe, surrender" smeared in grey in the background. The wording warns the others to "stay away" from the owner of the painting.---> 
-<!--- (tsb5) This picture has the wording "trust, believe, surrender" smeared in grey in the background. The text asks the question "where are my friends?"  --->
+<!--- (tsb5) This picture has the wording "trust, believe, surrender" smeared in grey in the background. The text asks the question "where are my friends?, it also warns to stay peaceful"  --->
