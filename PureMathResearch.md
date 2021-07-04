@@ -7,3 +7,5 @@ author: Kameryn Janai Taylor
 
 
 - Π x emr +12 derives the meaning of 7  
+- gmr/2-
+- 
