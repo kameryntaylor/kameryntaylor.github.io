@@ -15,33 +15,29 @@
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
         <header class="inner">
-          <!-- A grey horizontal navbar that becomes vertical on small screens -->
-          <nav class="navbar navbar-expand-sm bg-light">
+          <nav class="navbar navbar-expand-md bg-dark navbar-dark">
+            <!-- Brand -->
+            <a class="navbar-brand" href="#">Navbar</a>
 
-            <!-- Links -->
-            <ul class="navbar-nav">
-              <li class="nav-item">
-                <a class="nav-link" href="/">Home</a>
-              </li>
-                  <li class="nav-item">
-                <a class="nav-link" href="/About/">About Me</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="/Verses/">Religion</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="/PureMathResearch/">Pure Mathematics Research</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="/Cyber/">Cyber Security Research</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="/Blender/">The Crossover</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="/CreativeOutlet/">Creative Outlet</a>
-              </li>
-            </ul>
+            <!-- Toggler/collapsibe Button -->
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <!-- Navbar links -->
+            <div class="collapse navbar-collapse" id="collapsibleNavbar">
+              <ul class="navbar-nav">
+                <li class="nav-item">
+                  <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="/Verses/">Religion</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="/PureMathResearch/">Pure Mathematics Research</a>
+                </li>
+              </ul>
+            </div>
           </nav>
           
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
