@@ -15,27 +15,11 @@
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
         <header class="inner">
-          <p>
-            <a class="btn btn-primary" data-toggle="collapse" href="/" role="button" aria-expanded="false" aria-controls="multiCollapseExample1">Home</a>
-            <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="/Verses/" aria-expanded="false" aria-controls="multiCollapseExample2">Toggle second element</button>
-            <button class="btn btn-primary" type="button" data-toggle="collapse" data-target=".multi-collapse" aria-expanded="false" aria-controls="multiCollapseExample1 multiCollapseExample2">Toggle both elements</button>
-          </p>
-          <div class="row">
-            <div class="col">
-              <div class="collapse multi-collapse" id="multiCollapseExample1">
-                <div class="card card-body">
-                  
-                </div>
-              </div>
-            </div>
-            <div class="col">
-              <div class="collapse multi-collapse" id="multiCollapseExample2">
-                <div class="card card-body">
-                 
-                </div>
-              </div>
-            </div>
-          </div>
+   <div class="btn-group">
+  <a href="/" class="btn btn-primary active" aria-current="page">Active dlink</a>
+  <a href="/Verses/" class="btn btn-primary">Linkg</a>
+  <a href="/Cyber/" class="btn btn-primary">Liynk</a>
+</div>
           
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
