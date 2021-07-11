@@ -12,7 +12,7 @@
      - [Pinterest: Kameryntaylor](https://www.pinterest.com/kameryntaylor/)
      - [Youtube: Kameryn Janai Taylor](https://www.youtube.com/channel/UCJxjMRQLUEYuJ81VhhzpBng)  
 
-![businesscards](/assets/bc5.PNG)  
+![businesscards](/assets/bc6.PNG)  
   
     
 #### in·form·ant  
