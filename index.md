@@ -10,10 +10,7 @@
      - [Github: Kameryntaylor](https://github.com/kammywhams/kameryntaylor.github.io)
      - [Instagram: @Kammywhams](https://www.instagram.com/kammywhams/)
      - [Pinterest: Kameryntaylor](https://www.pinterest.com/kameryntaylor/)
-     - [Youtube: Kameryn Janai Taylor](https://www.youtube.com/channel/UCJxjMRQLUEYuJ81VhhzpBng)  
-
-![businesscards](/assets/bc6.PNG)  
-  
+     - [Youtube: Kameryn Janai Taylor](https://www.youtube.com/channel/UCJxjMRQLUEYuJ81VhhzpBng)    
     
 #### in·form·ant  
 */inˈfôrmənt/*  
