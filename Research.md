@@ -19,3 +19,9 @@ author: Kameryn Janai Taylor
 - Π x emr +12 derives the meaning of 7  
 - gmr/2-
 - 
+---
+layout: posts
+title: "Where the research intersects"
+permalink: /Blender/
+author: Kameryn Janai Taylor
+---
