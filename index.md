@@ -12,7 +12,7 @@
      - [Pinterest: Kameryntaylor](https://www.pinterest.com/kameryntaylor/)
      - [Youtube: Kameryn Janai Taylor](https://www.youtube.com/channel/UCJxjMRQLUEYuJ81VhhzpBng)    
     
-#### in·form·ant  
+### in·form·ant  
 */inˈfôrmənt/*  
   
 *noun*  
