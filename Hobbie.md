@@ -1,18 +1,15 @@
 ---
 layout: posts
 title: "Exploring my creative side"
-permalink: /CreativeOutlet/
+permalink: /Hobbies/
 author: Kameryn Janai Taylor
 ---
 
 
-Hello, this is where I am posting links to my videos on youtube. Also search my profile on Spotify! hit me up if you want a playlist. I love making playlists helping people get through their day.
+Hello, this is where I will be posting pictures of my paintings, and showing off my jewerley making skills.  
 
-📺 [Youtube: Kameryn Janai Taylor](https://www.youtube.com/channel/UCJxjMRQLUEYuJ81VhhzpBng)  
-🎵 Spotify: Taylorkameryn  
---------------------------------------------------------------------------------------
-
-### Check Out Some of my Paintings!
+Also search my music profile on Youtube! Email/Text me if you want a playlist. Search: "Kameryn Janai Taylor". I love making playlists helping people get through their day.
+- 📺 [Youtube: Kameryn Janai Taylor](https://www.youtube.com/channel/UCJxjMRQLUEYuJ81VhhzpBng) 
 
 ![Trust_Surrender_Believe](/assets/tsb.jpg) ![Spiral](/assets/artw.jpg)  
 If we could summarize the holy trinity's advice into one word, God would say Trust me, Jesus would say Surrender to your love, and the Holy Sprit will say Believe in change when it comes into your awareness.  
