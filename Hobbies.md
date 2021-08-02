@@ -8,7 +8,7 @@ author: Kameryn Janai Taylor
 
 Hello, this is where I will be posting pictures of my paintings, and showing off my jewerley making skills.  
 
-Also search my music profile on Youtube! Search: "Kameryn Janai Taylor". Email/Text me if you want a playlist. I love making playlists helping people get through their day.
+Also search my music profile on YouTube! Search: "Kameryn Janai Taylor" on YouTube. Email/Text me if you want a playlist. I love making playlists helping people get through their day.
 - 📺 [Youtube: Kameryn Janai Taylor](https://www.youtube.com/channel/UCJxjMRQLUEYuJ81VhhzpBng) 
 
 ![Trust_Surrender_Believe](/assets/tsb.jpg) ![Spiral](/assets/artw.jpg)  
