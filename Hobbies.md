@@ -6,9 +6,13 @@ author: Kameryn Janai Taylor
 ---
 
 
-Hello, this is where I will be posting pictures of my paintings, and showing off my jewerley making skills.  
+Hello, 
 
-Also search my music profile on YouTube! Search: "Kameryn Janai Taylor" on YouTube. Email/Text me if you want a playlist. I love making playlists helping people get through their day.
+So there are three hobbies I wish to share with the world :) 1) Jewelry Making. 2) Acrylic Painting. and 3) Music.
+
+On this page I will be posting images of my home made jewelry available for sale [here]. Every purchase comes with a free painting. Some examples of my paintings are below. 
+
+Next, I love making playlists helping people get through their day. Email/Text me (see ![about me]() for contact info) if you would like a playlist made taylored to your spirit. I do ask that you provide me with one song to go off of and a photo you feels represents you. Also search my music profile on YouTube! Search: "Kameryn Janai Taylor" on YouTube. 
 - 📺 [Youtube: Kameryn Janai Taylor](https://www.youtube.com/channel/UCJxjMRQLUEYuJ81VhhzpBng) 
 
 ![Trust_Surrender_Believe](/assets/tsb.jpg) ![Spiral](/assets/artw.jpg)  
