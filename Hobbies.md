@@ -6,16 +6,14 @@ author: Kameryn Janai Taylor
 ---
 
 
-Hello, 
-
-So there are three hobbies I wish to share with the world :) 1) Jewelry Making. 2) Acrylic Painting. and 3) Music.
+HI! here are three hobbies I wish to share with the world :) 1) Jewelry Making. 2) Acrylic Painting. and 3) Music.
 
 On this page I will be posting images of my home made jewelry available for sale [here]. Every purchase comes with a free painting. Some examples of my paintings are below. 
 
 Next, I love making playlists helping people get through their day. Email/Text me (see ![About Me](About.md) for contact info) if you would like a playlist made taylored to your spirit. I do ask that you provide me with one song you REALLY like and any photo you feel captures your personality. I will post the playlist to my music profile on YouTube when its done. Typically the next day. Search: "Kameryn Janai Taylor" on YouTube or click the link below. 
 - 📺 [Youtube: Kameryn Janai Taylor](https://www.youtube.com/channel/UCJxjMRQLUEYuJ81VhhzpBng) 
 
-##Painting Examples  
+## Painting Examples  
 ![Trust_Surrender_Believe](/assets/tsb.jpg) 
 If we could summarize the holy trinity's advice into one word, God would say Trust me, Jesus would say Surrender to your love, and the Holy Sprit will say Believe in change when it comes into your awareness.  
 
