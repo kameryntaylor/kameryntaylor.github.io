@@ -32,5 +32,5 @@ What I've learned,
 - Π x emr +12 derives the meaning of 7  
 
   
-**What I learned in coding:** Never copy other peers around you on a way to approach a project, always get as close to the source as possible and derive your own approach to solving pallet 
+**What I learned in coding,**  Never copy other peers around you on a way to approach a project, always get as close to the source as possible and derive your own approach to solving pallet 
 **We all know all things come from GOD so what is he saying for the year 2021?** Thessalonians is my favorite chapter, ask me why. 
