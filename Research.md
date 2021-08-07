@@ -9,7 +9,7 @@ author: Kameryn Janai Taylor
 
 What I've learned,
 - God is in control of everyone
--
+- Building communication stamina is essential to reach persons and change minds
 
 ### Disclaimer: I do not expect you to accept my verses below as correct, although I did try my best to get them right however, Ive decided not to add the scripture source so that you can become more familiar with the Bible and connect these two verses on your own! with out me telling you where in the Bible it is. I will say these all come from the New Testament.
 
