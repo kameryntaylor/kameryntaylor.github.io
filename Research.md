@@ -18,7 +18,7 @@ What I've learned,
 -Cyber: The structure of a electric grid should stand tall if malformed devestating consequences occur.
   -Create a pattern where the grid penetration sector is square
 "an instrustor of the foolish, a teacher of children, having in the law the embodiment of knowledge and truth--"  
-"Thier feet are swift to shed blood;"  
+"Their feet are swift to shed blood;"  
 "More than that, we also know rejoice in God through our Lord Jesus Christ, through who we have now received reconciliation"  
 "for sin indeed was in the world before the law was given, but sin is not counted where there is no law."  
 "When the Lamb opened the seventh seal, there was silence in heaven for about half an hour."  
