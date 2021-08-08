@@ -14,9 +14,7 @@ What I've learned,
 ### Disclaimer: I do not expect you to accept my verses below as correct, although I did try my best to get them right however, Ive decided not to add the scripture source so that you can become more familiar with the Bible and connect these two verses on your own! with out me telling you where in the Bible it is. I will say these all come from the New Testament.
 
 "It was to show his righteousness at the present time, so that he might be just and the justifier of the one who has faith in Jesus."
--PMFormula: gmr/2-
--Cyber: The structure of a electric grid should stand tall if malformed devestating consequences occur.
-  -Create a pattern where the grid penetration sector is square
+-PMFormula For Scripture: gmr/2- 
 "an instrustor of the foolish, a teacher of children, having in the law the embodiment of knowledge and truth--"  
 "Their feet are swift to shed blood;"  
 "More than that, we also know rejoice in God through our Lord Jesus Christ, through who we have now received reconciliation"  
