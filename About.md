@@ -17,5 +17,5 @@ Some of my values are possessing the ability to love all, treating others nobly,
 
 I thought I'd share this online since it's hard getting this type of advice. I know what it's like to not have someone to go to as a mentor type. Hopefully I can make your journey easier than mine :)  
 
-#Check out my business card, see "My Hobbies" page for meaning behind my choice to include the words "Trust, Surrender, Believe"
+#Check out my business card, see "My Hobbies" page for meaning behind my choice to include the words "Trust, Surrender, Believe"  
 ![businesscards](/assets/bc6.png)
