@@ -11,7 +11,7 @@ What I've learned,
 - God is in control of everyone
 - Building communication stamina is essential to reach persons and change minds
 
-### Disclaimer: I do not expect you to accept my verses below as correct, although I did try my best to get them right however, Ive decided not to add the scripture source so that you can become more familiar with the Bible and connect these two verses on your own! with out me telling you where in the Bible it is. I will say these all come from the New Testament.
+### Disclaimer: I do not expect you to accept my verses below as correct, although I did try my best to get them right I may have mis-typed/mis-spelled. Ive decided not to add the scripture source so that you can become more familiar with the Bible and find where the verse is in the Bible on your own! I will say these all come from the New Testament.
 
 "It was to show his righteousness at the present time, so that he might be just and the justifier of the one who has faith in Jesus." 
 (PMFormula For Scripture: gmr/2-)  
