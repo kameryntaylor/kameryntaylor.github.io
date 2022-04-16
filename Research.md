@@ -14,7 +14,6 @@ What I've learned,
 ### Disclaimer: I do not expect you to accept my verses below as correct, although I did try my best to get them right I may have mis-typed/mis-spelled. Ive decided not to add the scripture source so that you can become more familiar with the Bible and find where the verse is in the Bible on your own! I will say these all come from the New Testament.
 
 "It was to show his righteousness at the present time, so that he might be just and the justifier of the one who has faith in Jesus." 
-(PMFormula For Scripture: gmr/2-)  
 "an instrustor of the foolish, a teacher of children, having in the law the embodiment of knowledge and truth--"  
 "Their feet are swift to shed blood;"  
 "More than that, we also know rejoice in God through our Lord Jesus Christ, through who we have now received reconciliation"  
@@ -26,9 +25,10 @@ What I've learned,
 "Moved with pity, he stretched out his hand and touched him and said to him, "I will; be clean."
 
  
-## Important Formulas
-- Π x emr +12 derives the meaning of 7  
+## Extremely Random Formulas
+- Π x emr +12 derives the meaning of 7 
+- gmr/2- 
 
+Thessalonians is my favorite chapter, ask me why.
   
 **What I learned in coding,**  Never copy other peers around you on a way to approach a project, always get as close to the source as possible and derive your own approach to solving pallet 
-**We all know all things come from GOD so what is he saying for the year 2021?** Thessalonians is my favorite chapter, ask me why. 
