@@ -6,7 +6,7 @@ author: Kameryn Janai Taylor
 ---
 HELLO WORLD,
 
-My name is Kameryn, I'm a Security Researcher completing prereq's for Graduate school. I've decided to obtain a Masters Degree in Mathematics & Statistics. I hold Bachelors of Science Degree in Computer Science from California State University, Sacramento; I concentrationed in Information Assurance and Security or commonly known as "Cyber Security". I currently hold my SANS Institute Security Essentials (SANS GSEC) certification. An interesting tidbit of information about SANS Institute certifications is that you are allowed any paper material in the test room. I must have had over 100 multicolored tabs in the provoded textbooks XD (I'll insert a photo below).
+My name is Kameryn, I'm a Security Researcher completing prereq's for Graduate school. I've decided to obtain a Masters Degree in Mathematics & Statistics. I hold Bachelors of Science Degree in Computer Science from California State University, Sacramento; I concentrationed in Information Assurance and Security or commonly known as "Cyber Security". I currently hold my SANS Institute Security Essentials (SANS GSEC) certification. An interesting tidbit of information about SANS Institute certifications is that you are allowed any paper material in the test room. I must have had over 50 multicolored tabs in the provoded textbooks XD (I'll insert a photo below).
 ![gsecmaterials](/assets/gsec_study_materials.jpg) ![gseccertification](/assets/gsec_certification.jpg)
 
 I plan to complete many more certifications including CISSP, CCNA, and Network +. I find I have an affinity for Network Security. 
