@@ -18,4 +18,4 @@ Some of my core values are treating others nobly and compassion. In my professio
 I thought I'd share this online.
 
 #Check out my business card, see "My Hobbies" page for meaning behind my choice to include the words "Trust, Surrender, Believe"  
-//![businesscards](/assets/bc7.png)
+![businesscards](/assets/bc7.png)
