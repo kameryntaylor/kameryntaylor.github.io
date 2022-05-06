@@ -15,7 +15,7 @@ Next, I love making playlists to help people get through their day. Email/Text m
 
 ## Painting Examples  
 ![Trust_Surrender_Believe FAITH](/assets/tsb.jpg)  
-If we could summarize the holy trinity's advice into one word, God would say Trust me, Jesus Christ would say Surrender to your love and Faith, and the Holy Sprit will say Believe in change when it comes into your awareness.  
+If we could summarize the holy trinity's advice into one word, God would say Trust me, Jesus Christ would say Surrender to your love and have Faith, and the Holy Sprit will say Believe in change when it comes into your awareness.  
 
 ![Trust_Surrender_Believe Faith](/assets/tsb2.jpg) ![Trust_Surrender_Believe Faith](/assets/tsb3.jpg) ![Trust_Surrender_Believe Faith](/assets/tsb4.jpg) ![Trust_Surrender_Believe](/assets/tsb5.jpg) ![Trust_Surrender_Believe Faith](/assets/tsb6.PNG) ![Trust_Surrender_Believe Faith](/assets/tsbf7.PNG) 
 <!--- (tsb2) This painting is inspired by the verse " I, Paul, myself entreat you, by the meekness and gentleness of Christ--I who am humble when face to face with you, but bold toward you when I am away!--" - 2 Corinthians 10:1 --->
