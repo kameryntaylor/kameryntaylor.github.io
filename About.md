@@ -6,16 +6,14 @@ author: Kameryn Janai Taylor
 ---
 HELLO WORLD,
 
-My name is Kameryn, I'm a Security Researcher completing prereq's for Graduate school. I've decided to obtain a Masters Degree in Mathematics & Statistics. I hold Bachelors of Science Degree in Computer Science from California State University, Sacramento; I concentrationed in Information Assurance and Security or commonly known as "Cyber Security". I currently hold my SANS Institute Security Essentials (SANS GSEC) certification. An interesting tidbit of information about SANS Institute certifications is that you are allowed any paper material in the test room. I must have had over 50 multicolored tabs in the provoded textbooks XD (I'll insert a photo below).
+My name is Kameryn, I'm a Security Researcher completing prereq's for Graduate school. I've decided to obtain a Masters Degree in Mathematics & Statistics. I hold Bachelors of Science Degree in Computer Science from California State University, Sacramento; I concentrationed in Information Assurance and Security or commonly known as "Cyber Security". I currently hold my SANS Institute Security Essentials (SANS GSEC) certification. An interesting tidbit of information about SANS Institute certifications is that you are allowed any paper material in the test room. I must have had over 50 multicolored tabs in the provoded textbooks XD (I'll insert a photo below).  
 ![gsecmaterials](/assets/gsec_study_materials.jpg) ![gseccertification](/assets/gsec_certification.jpg)
 
 I plan to complete many more certifications including CISSP, CCNA, and Network +. I find I have an affinity for Network Security. 
 
 In addition to Math school part-time, I am researching religion, math, and cyber security. This site is mainly to post and show case my research. I want to find the connection between religion, math, and cyber security. My learning style is Trial and Error.
 
-Some of my core values are treating others nobly and compassion. In my professional life these values help me connect and inspire those around me, together producing good quality work.
+My core value is compassion. In my professional life this value helps me connect and inspire those around me; together producing good quality work.
 
-I thought I'd share this online.
-
-#Check out my business card, see "My Hobbies" page for meaning behind my choice to include the words "Trust, Surrender, Believe"  
+#Check out my business card, see "My Hobbies" page for meaning behind my choice to include the words "Trust, Surrender, Believe, Faith"  
 ![businesscards](/assets/bc7.PNG)
