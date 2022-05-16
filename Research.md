@@ -32,3 +32,10 @@ What I've learned,
 Thessalonians is my favorite chapter, ask me why.
   
 **What I learned in coding,**  Never copy other peers around you on a way to approach a project, always get as close to the source as possible and derive your own approach to solving the problem.
+
+##New Language
+Whats up! So I've invented a new language since I regularly get frustrated with english. 
+
+I've named it Feelo because its primarity based on a sense. It is only a written language and must be done with paint. The idea behind interpreting it is the symbols written down are translated differently. So one person might look at a symbol/sentence and get "forgiveness" however, another person might look at the same writing and get "hope". The idea behind it is that God has different message for everyone and the same situation can transform both peoples live in there respective paths differently. What one is supposed to do in their life will be unintelligible to another unless explained by that person. This is meant to empower the population. :D
+
+Some examples of feelo are in my paintings on the "MY Hobbies" page. I will paint more messages from God and post them here. Enjoy! :)
