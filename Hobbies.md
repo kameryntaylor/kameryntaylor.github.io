@@ -6,16 +6,13 @@ author: Kameryn Janai Taylor
 ---
 
 
-HI! here are three hobbies I wish to share with the world :) 1) Jewelry Making. 2) Acrylic Painting. and 3) Music.
+HI! here are three hobbies I wish to share with the world :) 1) Music 2) Acrylic Painting.
 
-On this page I will be posting images of my home made jewelry available for sale [here](https://www.instagram.com/elevatedjewls/). Every purchase comes with one of my revelotionary acrylic painting. Some examples of my paintings are below. 
-
-Next, I love making playlists to help people get through their day. Email/Text me (see "About Me" page above for contact info) if you would like me to make you a playlist. I don't mind getting emails/texts from strangers for requests! I promise. With your request please provide a song that really starts you. I will post the fresh playlist to my music profile on YouTube; typically the next day. Search: "Kameryn Janai Taylor" on YouTube and click the playlists tab or click the link below. Music really introduces new perspectives on conditions we are all facing. Music reveals that it is COMMON to experience misfortunes such as Homelessness, Debt, Health Drops/Mental Illness breakouts, etc. I want to boost your life through music.
-- 📺 [Youtube: Kameryn Janai Taylor](https://www.youtube.com/channel/UCJxjMRQLUEYuJ81VhhzpBng) 
+I recommend the Pandora music app to find new music.
 
 ## Painting Examples  
 ![Trust_Surrender_Believe FAITH](/assets/tsb.jpg)  
-If we could summarize the holy trinity's advice into one word, God would say Trust me, Jesus Christ would say Surrender to your love and have Faith, and the Holy Sprit will say Believe in change when it comes into your awareness.  
+If we could summarize the holy trinity's advice into one word, God would say Trust me, Jesus Christ would say Surrender to your love, and the Holy Sprit will say Believe in change when it comes into your awareness.  
 
 ![Trust_Surrender_Believe Faith](/assets/tsb2.jpg) ![Trust_Surrender_Believe Faith](/assets/tsb3.jpg) ![Trust_Surrender_Believe Faith](/assets/tsb4.jpg) ![Trust_Surrender_Believe](/assets/tsb5.jpg) ![Trust_Surrender_Believe Faith](/assets/tsb6.PNG) ![Trust_Surrender_Believe Faith](/assets/tsbf7.png) 
 <!--- (tsb2) This painting is inspired by the verse " I, Paul, myself entreat you, by the meekness and gentleness of Christ--I who am humble when face to face with you, but bold toward you when I am away!--" - 2 Corinthians 10:1 --->
