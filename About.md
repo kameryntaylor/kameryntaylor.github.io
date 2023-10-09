@@ -11,7 +11,7 @@ My name is Kameryn, I'm a Security Researcher. I hold Bachelors of Science Degre
 
 I plan to complete many more certifications including CISSP, CCNA, and Network +. I find I have an affinity for Network Security. 
 
-I am researching cyber security and religion. This site is mainly to post and show case my cyber security research.
+This site is to post and show case my cyber security research.
 
 My core value is compassion. In my professional life this value helps me connect and inspire those around me; together producing good quality work.
 
