@@ -8,7 +8,7 @@
      - [LinkedIn: Kameryntaylor](https://www.linkedin.com/in/kameryn-taylor-b42928aa/)
      - [Facebook: Kamerynjanaitaylor](https://www.facebook.com/kameryn.taylor.7)  
      - [Github: Kameryntaylor](https://github.com/kammywhams/kameryntaylor.github.io)  
-     - [Instagram: @Kammywhams00](https://www.instagram.com/kammywhams00/)
+     - [Instagram: @Kamerynjanai](https://www.instagram.com/kamerynjanai/)
      - [Pinterest: Kameryntaylor](https://www.pinterest.com/kameryntaylor/)
      - [Youtube: Kameryn Janai Taylor](https://www.youtube.com/channel/UCJxjMRQLUEYuJ81VhhzpBng)
 
