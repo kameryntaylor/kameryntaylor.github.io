@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... cyber security projects  
 - 📫 How to reach me ...  
      - [Email: taylorkameryn26@gmail.com](mailto::)  
-     - [Twitter: @kamerynjanai](https://www.twitter.com/KamerynJanai)  
+     - [Twitter: @taylorkameryn26](https://www.twitter.com/taylorkameryn26)  
      - [LinkedIn: Kameryntaylor](https://www.linkedin.com/in/kameryn-taylor-b42928aa/)
      - [Facebook: Kamerynjanaitaylor](https://www.facebook.com/kameryn.taylor.7)  
      - [Github: Kameryntaylor](https://github.com/kammywhams/kameryntaylor.github.io)  
